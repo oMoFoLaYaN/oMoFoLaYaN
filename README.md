@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**oMoFoLaYaN/oMoFoLaYaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a Frontend Web Developer with a passion for creating visually appealing and user-friendly websites. I specialize in HTML, CSS, and JavaScript, and am familiar with several frontend frameworks such as React, Tailwind, and Bootstrap.
+ 🌱 I’m currently learning other Javascript framework.
 
-Here are some ideas to get you started:
+Skills
+HTML
+CSS
+JavaScript
+React
+Tailwind
+Bootstrap
+Responsive Design
+Cross-browser Compatibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+If you have any questions or would like to work with me, please feel free to reach out via my LinkedIn profile or email me at viceinvincible@gmail.com.
+
+Thank you for visiting my GitHub profile. I hope you enjoy looking at my projects and find them to be of interest.
+
+
