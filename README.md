@@ -1,32 +1,23 @@
 ## Hi, I’m oMoFoLaYaN <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.dev";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FRontend+Developer;I'm+also+into+Medical" /></a>
 </p>
-
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
-
-
-
-<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
-</p>
-
 
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -53,6 +44,24 @@
       src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="sass" width="40"
       height="40" /> </a>
   
+</p>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="#" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="oMoFoLaYaN" height="30" width="40" /></a>
+  <a href="#" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="oMoFoLaYaN" height="30" width="40" /></a>
+  <a href="#" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="oMoFoLaYaN" height="30" width="40" /></a>
+ <a href="#" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="oMoFoLaYaN" height="30" width="40" /></a>
 </p>
 
 
