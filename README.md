@@ -1,19 +1,11 @@
 ## Hi, I’m oMoFoLaYaN <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = AbhigyanTrips()
+```CSS
+#web-developer > profile {
+    name: oMoFoLaYaN;
+    position: frontend developer;
+    stack: "Html, CSS, Javascript";
+    frameworks: "React, bootstrap, Tailwind";
+}
 ```
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FRontend+Developer;I'm+also+into+Medical" /></a>
