@@ -51,7 +51,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" alt="sass" width="40"
-      height="40" /> </a
+      height="40" /> </a>
 </p>
 
 
