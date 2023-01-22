@@ -30,7 +30,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img
+      alt="react" width="40" height="100" /> </a> <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img
       src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="sass" width="40"
       height="40" /> </a>
   
@@ -51,7 +51,7 @@
       alt="oMoFoLaYaN" height="30" width="40" /></a>
  <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="oMoFoLaYaN" height="30" width="100%" /></a>
+      alt="oMoFoLaYaN" height="30" width="40" /></a>
 </p>
 
 
