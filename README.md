@@ -22,7 +22,8 @@ If you have any questions or would like to work with me, please feel free to rea
 Thank you for visiting my GitHub profile. I hope you enjoy looking at my projects and find them to be of interest.
 
 
-[![ProfileBanner](https://github.com/oMoFoLaYaN/oMoFoLaYaN/commit/b3e968e5d134f7adff3dd381d3aa598a24c9d099](https://github.com/oMoFoLaYaN)
+[![ProfileBanner](https://github.com/oMoFoLaYaN/oMoFoLaYaN/20230121_084205_0001.png](https://github.com/oMoFoLaYaN)
+
 
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
