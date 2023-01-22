@@ -26,11 +26,10 @@ Thank you for visiting my GitHub profile. I hope you enjoy looking at my project
 
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+Welcome to my GitHub profile! I am a Frontend Web Developer with a passion for creating visually appealing and user-friendly websites. I specialize in HTML, CSS, and JavaScript, and am familiar with several frontend frameworks such as React, Tailwind, and Bootstrap.
+
+<img align="right" alt="GIF" src="[https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg](https://www.freepik.com/premium-vector/software-development-coding-process-concept-programer-web-developer-coding-computer-screen-with-code-script-open-windows-coder-engineer-workplace-isometric-3d-vector-illustration_34658163.htm#query=programming%203d&position=45&from_view=keyword)" width="400" height="280" />
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
