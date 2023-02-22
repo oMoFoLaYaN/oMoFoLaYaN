@@ -4,8 +4,8 @@
     name: oMoFoLaYaN;
     position: frontend developer;
     stack: "Html, CSS, Javascript";
-    frameworks: "React, Bootstrap";
-    learning: "Tailwind, Nextjs";
+    frameworks: "React, Bootstrap, TailwindCSS";
+    learning: "Nextjs";
 }
 ```
 <p>
