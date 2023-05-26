@@ -3,9 +3,8 @@
 #web-developer > profile {
     name: oMoFoLaYaN;
     position: frontend developer;
-    stack: "Html, CSS, Javascript";
-    frameworks: "React, Bootstrap, TailwindCSS";
-    learning: "Nextjs";
+    stack: "Html, CSS, SCSS Javascript, Typescript";
+    frameworks: "React, NextJS Bootstrap, TailwindCSS";
 }
 ```
 <p>
